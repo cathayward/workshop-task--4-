@@ -1,6 +1,5 @@
 let imgs = [];
 let raz, sasha, lili;
-let backgroundImage
 
 function preload () {
 raz = loadImage("images/raz.png");
